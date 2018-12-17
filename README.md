@@ -2,7 +2,9 @@
 
 下面是官网关于libgooglepinyin的介绍，可以看到此lib已不再更新并且创建时的目标就不是完成一个强大先进的输入法内核。
 而且libpinyin or sunpinyin的功能比libgooglepinyin更强大一些。
+
 https://code.google.com/archive/p/libgooglepinyin/
+
 A fork from google pinyin on android
 This is not a long term project, it only began as some kind of prove concept project.
 As this project starter (wengxt), I'm not interested in adding any new feature to this library. 
